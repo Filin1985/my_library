@@ -13,4 +13,4 @@
 - Responsive Design
 - JavaScript
 
-[Ссылка на проект]()
+[Ссылка на проект](https://melodious-fairy-05178f.netlify.app/)
